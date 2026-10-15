@@ -1,0 +1,1 @@
+qx-mid @ git+https://github.com/<your-org>/qx-polyglot-services.git@main
